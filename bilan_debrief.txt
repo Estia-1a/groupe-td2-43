@@ -14,4 +14,4 @@ Débrief des 2 séances :
 	- Distributions des tâches à réaliser : listes de commandes
 	- Définitions des listes de commandes et mit sur un fichier .htlm
 	- Débrief de ce qui vient d'être effectué
-	- Debrief des 2 séances
+	- Debrief des 2 séances 
