@@ -1,6 +1,6 @@
 Micka : Git config ==> Git Commit
 Lancelot : Git status ==> Git Pull
-Thomas : 
+Thomas : débrief de la séance
 Paul : Git pull ==> Git fetch
 Xabi : Git ls-tree ==> Git archive
 Sandra : Git prune ==> git rebase master
