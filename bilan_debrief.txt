@@ -1,1 +1,17 @@
-mkjvqbmqejfv
+Débrief des 2 séances : 
+
+-> 1er séance :
+	
+	- Mise en place du fichier de travail collectif sur SmartGIT
+	- Paramétrage de SmartGIT en suivant (+) ou (-) correctement le tuto.
+	- Des problèmes et encore des problèmes, car d'après Micka, je cite : "vous êtes tous des handicapés, je vais vrillé... Pause clope ?"
+	- Résolutions des problèmes = merci la prof et une phrase mythique que je cite : "Avez vous lu le tuto ?"
+	- Pas fou entre les absents, les sans ordis et les débilles.
+
+-> 2ème séance : 
+
+	- Paramétrage de SmartGIT pour les retardataires 
+	- Distributions des tâches à réaliser : listes de commandes
+	- Définitions des listes de commandes et mit sur un fichier .htlm
+	- Débrief de ce qui vient d'être effectué
+	- Debrief des 2 séances
