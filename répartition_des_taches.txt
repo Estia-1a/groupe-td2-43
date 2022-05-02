@@ -1,0 +1,7 @@
+Micka : Git config ==> Git Commit
+Lancelot : Git status ==> Git Pull
+Thomas : 
+Paul : Git pull ==> Git fetch
+Xabi : Git ls-tree ==> Git archive
+Sandra : Git prune ==> git rebase master
+Elio : Gestion des tâches
