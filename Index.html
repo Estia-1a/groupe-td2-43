@@ -47,6 +47,36 @@
             <li>Git rebase</li>
                 <p>La commande git rebase est utilisée pour la réapplication des commits sur une autre branche. Par exemple:
                 git rebase master</p>
+				
+			<li>Git merge</li>
+                <p> La commande git merge est utilisée pour fusionner une branche dans la branche active. Usage: git merge <nom-branche> </p>
+            
+             <li>Git diff </li>
+                <p> La commande git diff permet de lister les conflits.Pour visualiser les conflits d’un fichier, utilisez git diff --base <nom-fichier> 
+                La commande suivante est utilisée pour afficher les conflits entre les branches à fusionner avant de les fusionner:
+                    =git diff <branche-source> <branche-cible>. Pour simplement énumérer tous les conflits actuels, utilisez:git diff </p>
+		    
+			<li>Git tag </li>
+				<p> Le marquage est utilisé pour marquer des commits spécifiques avec des poignées simples.Un exemple peut être:
+git tag 1.1.0 <insert-commitID-here> </p>
+
+            <li> Git log </li>
+				<p> L’ exécution de cette commande génère le log d’une branche. Un exemple de sortie : commit 15f4b6c44b3c8344caasdac9e4be13246e21sadw Author: Alex Hunter <alexh @gmail.com>  ate: Mon Oct 1 12:56:29 2016 -0600 </p>
+            <li> Git reset </li>
+				<p> Pour réinitialiser l’index et le répertoire de travail à l’état du dernier commit, la commande git reset est utilisée :
+git reset --hard HEAD </p>
+            <li>Git rm </li>
+				<p> Git rm peut être utilisé pour supprimer des fichiers de l’index et du répertoire de travail. Usage:
+git rm nomfichier.txt </p>
+            <li> Git stash </li>
+				<p>L’une des moins connues, git stash aide à enregistrer les changements qui ne doivent pas être commit immédiatement. C’est un commit temporaire. Usage:
+git stash </p>
+            <li> Git show </li>
+				<p> Pour afficher des informations sur tout fichier git, utilisez la commande git show.Par exemple:
+git show </p>
+            <li> Git fetch </li>
+				<p> Git fetch permet à un utilisateur d’extraire tous les fichiers du dépôt distant qui ne sont pas actuellement dans le répertoire de travail local. Exemple d’utilisation:
+git fetch origin </p>
                 
 		</section>
     </body>
